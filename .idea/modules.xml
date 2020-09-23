@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TH-QueueSuDungDanhSachLienKet/TH-QueueSuDungDanhSachLienKet.iml" filepath="$PROJECT_DIR$/TH-QueueSuDungDanhSachLienKet/TH-QueueSuDungDanhSachLienKet.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-StackSuDungLinkedList/TH-StackSuDungLinkedList.iml" filepath="$PROJECT_DIR$/TH-StackSuDungLinkedList/TH-StackSuDungLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2week3(Stack-Queue).iml" filepath="$PROJECT_DIR$/module2week3(Stack-Queue).iml" />
     </modules>
